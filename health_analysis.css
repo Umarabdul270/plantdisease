@@ -38,10 +38,12 @@ nav {
   
   h1 {
     margin-bottom: 20px;
+    text-align: center;
   }
   
   div {
     margin-bottom: 10px;
+    text-align: center;
   }
   
   label {
@@ -65,7 +67,7 @@ nav {
   }
   
   button:hover {
-    background-color: #45a049;
+    background-color: #b8ebba;
   }
   
   /* Basic CSS for the report section */
